@@ -1,0 +1,11 @@
+# Claude Code local settings (machine-specific permissions)
+.claude/settings.local.json
+
+# Go build artifacts
+/llmrouter
+*.test
+*.out
+
+# Local data
+*.sqlite
+*.db
